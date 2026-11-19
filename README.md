@@ -1,3 +1,7 @@
+> **Moved:** DAW Vocal Denoiser v1c now lives in **[Daw-Vocal-Denoiser/versions/v1c](https://github.com/Stavion-Colquitt/Daw-Vocal-Denoiser/tree/main/versions/v1c)**, together with every other version,
+> one shared codebase and a results table across all versions. This repository is archived (read-only); its full history
+> is part of Daw-Vocal-Denoiser.
+
 # DAW Vocal Denoiser v1c
 
 > **AI disclosure:** This project was built with AI assistance (Claude, by Anthropic) for writing code and
@@ -6,7 +10,7 @@
 
 🤗 [Model on Hugging Face](https://huggingface.co/Stavion-Colquitt/DAW_Vocal_Denoiser_v1c) ·
 
-**Later versions:** [v1b](https://github.com/Stavion-Colquitt/Daw-Vocal-Denoiser-v1b) (bigger GRU, best accuracy) · [v1d](https://github.com/Stavion-Colquitt/Daw-Vocal-Denoiser-v1d) (5 ms lookahead, same quality at half the CPU) · 🎧 [Live A/B demo](https://huggingface.co/spaces/Stavion-Colquitt/Realtime_Denoisers) · 📋 [Project board](https://github.com/users/Stavion-Colquitt/projects/2)
+**Later versions:** [v1b](https://github.com/Stavion-Colquitt/Daw-Vocal-Denoiser/tree/main/versions/v1b) (bigger GRU, best accuracy) · [v1d](https://github.com/Stavion-Colquitt/Daw-Vocal-Denoiser/tree/main/versions/v1d) (5 ms lookahead, same quality at half the CPU) · 🎧 [Live A/B demo](https://huggingface.co/spaces/Stavion-Colquitt/Realtime_Denoisers) · 📋 [Project board](https://github.com/users/Stavion-Colquitt/projects/2)
 v1: [Daw-Vocal-Denoiser](https://github.com/Stavion-Colquitt/Daw-Vocal-Denoiser)
 
 Version 1c of my [DAW Vocal Denoiser](https://github.com/Stavion-Colquitt/Daw-Vocal-Denoiser): the same causal,
